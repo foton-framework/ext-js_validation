@@ -1,5 +1,5 @@
 {
-    "name":    "foton/jsvalidation",
+    "name":    "foton/js_validation",
     "type":    "foton-extension",
     "license":  "MIT",
     "require": {
